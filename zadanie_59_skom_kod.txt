@@ -2,7 +2,7 @@
 <head>
 
 <title> zadanie 59 </title>
-<LINK href="zad59_sko.css" rel="stylesheet" 
+<LINK href="zadanie_59_skom.css" rel="stylesheet" 
 type="text/CSS">
 </head>
 
@@ -30,4 +30,4 @@ A:link { color: blue;}
 
 /* text-decoration:none usuwa wszelkie dekoracje, np podkreślenie linku 
  text-decoration:underline dodaje podkreślenie pod danym elementem tekstu
-Patryk Łubkowski */
+Igor Skomra */
