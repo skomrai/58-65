@@ -1,0 +1,40 @@
+<html>
+
+<head>
+    <title> zadanie 60 </title>
+    <LINK href="zadanie_60_skom.css" rel="stylesheet" 
+    type="text/CSS">
+
+</head>
+
+<body>
+
+<div id="blok1_skomra"> blok 1  </div>
+<br>
+<div id="blok2_skomra">  blok 2</div>
+<br>
+<div id="blok3_skomra"> blok 3 </div> 
+
+
+
+
+    <!-- hover; pseudoklasa która powoduje aktywowanie elementu po naruszeniu na niego kursorem, np zmiana koloru -->
+    <!-- Igor Skomra -->
+</body>
+
+</html>
+
+
+
+div#blok1_skomra { width: 621px; background-color: green; color: white;}
+div#blok2_skomra { width: 621px; background-color: green; color: white;}
+div#blok3_skomra { width: 621px; background-color: green; color: white;}
+
+div#blok1_skomra:hover { background-color: red; font-size: 20mm;}
+div#blok2_skomra:hover { background-color: gold; font-size: 20mm;}
+div#blok3_skomra:hover { background-color: yellow; font-size: 20mm;}
+
+
+
+/* hover; pseudoklasa która powoduje aktywowanie elementu po naruszeniu na niego kursorem, np zmiana koloru
+Igor Skomra */
