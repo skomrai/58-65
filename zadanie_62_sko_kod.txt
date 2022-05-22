@@ -3,7 +3,7 @@
 <head>
 
 <title> zadanie 62 </title>
-<LINK href="zadanie_62_lubk.css" rel="stylesheet" 
+<LINK href="zadanie_62_skom.css" rel="stylesheet" 
     type="text/CSS">
     
 </head>
@@ -48,15 +48,15 @@ H1{font-weight:bold;} <br>
 
 p
 {
-font-size:18mm;
+font-size:20mm;
 }
 p:lang(pl)
 {
-font-size: 25mm;
+font-size: 27mm;
 }
 p:lang(en)
 {
-font-size: 32mm;
+font-size: 34mm;
 }
 
 body {
